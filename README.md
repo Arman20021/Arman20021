@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **.netframework**
 
-- 💬 Ask me about **Data Structure and Algorithm,C++,Jav**
+- 💬 Ask me about **Data Structure and Algorithm,C++,Java**
 
 - 📫 How to reach me **mdarmanislam20021@gmail.com**
 
